@@ -6,5 +6,5 @@
 
 # Regras de negocios
 - [x] A transação pode ser do tipo crédito que somara ao valor total, ou debito que subtrairá;
-- [ ] Deve ser possivel identificar o usuário entre as requisições;
-- [ ] O usuário so pode visualizar transações o qual ele criou
+- [x] Deve ser possivel identificar o usuário entre as requisições;
+- [x] O usuário so pode visualizar transações o qual ele criou
